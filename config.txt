@@ -1,0 +1,5 @@
+token=NzkwOTgyNjg5MjYzNDUyMjEx.X-IiCA.7GTmmDezWaF1xUwSex44CbKYezk
+prefix=h
+owner=510547341674151978
+stayinchannel=true
+updatealerts=false
